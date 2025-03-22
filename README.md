@@ -12,7 +12,7 @@ Follow these steps:
 git clone https://github.com/MrMKsharma
 
 # Step 2: Navigate to the project directory.
-cd JobHub
+cd WorkbHub
 
 # Step 3: Install the necessary dependencies.
 npm i
