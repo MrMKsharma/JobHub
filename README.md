@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/ed1b28c5-f941-4efc-87d4-ad1e8d4cb666
+**URL**: https://workhubmanish.vercel.app/
 
 
 Follow these steps:
