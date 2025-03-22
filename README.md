@@ -1,4 +1,4 @@
-# Welcome to JobHub
+# Welcome to WorkbHub
 
 ## Project info
 
